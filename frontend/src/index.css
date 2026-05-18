@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(ellipse at top, #0f1824 0%, #0a0e14 60%);
+}
+
+.glass-panel {
+  @apply bg-sentinel-panel/80 backdrop-blur-md border border-sentinel-border rounded-xl;
+}
+
+.glow-accent {
+  box-shadow: 0 0 24px rgba(0, 212, 170, 0.15);
+}

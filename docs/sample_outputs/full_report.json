@@ -1,0 +1,3899 @@
+{
+  "video": "/Users/charan/ADAS/datasets/videos/car-detection.mp4",
+  "resolution": [
+    768,
+    432
+  ],
+  "frames_processed": 100,
+  "best_detection_count": 4,
+  "tracker": "deepsort",
+  "yolo_active": true,
+  "frame_summaries": [
+    {
+      "frame_id": 1,
+      "video_frame": 3,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 2,
+      "video_frame": 6,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 3,
+      "video_frame": 9,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 4,
+      "video_frame": 12,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 5,
+      "video_frame": 15,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 6,
+      "video_frame": 18,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 7,
+      "video_frame": 21,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 8,
+      "video_frame": 24,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 9,
+      "video_frame": 27,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 10,
+      "video_frame": 30,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 11,
+      "video_frame": 33,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 12,
+      "video_frame": 36,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 13,
+      "video_frame": 39,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 14,
+      "video_frame": 42,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 15,
+      "video_frame": 45,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 16,
+      "video_frame": 48,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 17,
+      "video_frame": 51,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 18,
+      "video_frame": 54,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 19,
+      "video_frame": 57,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 20,
+      "video_frame": 60,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 21,
+      "video_frame": 63,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 22,
+      "video_frame": 66,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 97.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 100.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 23,
+      "video_frame": 69,
+      "detection_count": 1,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.9m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.9m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.9m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 277.39356967745596,
+          "y1": 228.16768324670716,
+          "x2": 754.5577878251266,
+          "y2": 656.3250974544809,
+          "confidence": 0.409797728061676,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.86,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 477.1642181476707,
+          "bbox_h": 428.15741420777374
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.86,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 96.0,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 92.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 1
+    },
+    {
+      "frame_id": 24,
+      "video_frame": 72,
+      "detection_count": 1,
+      "collision_probability": 0.7,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 4.7m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 4.7m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "warning",
+          "action": "slow_down",
+          "message": "Reduce speed \u2014 object closing rapidly",
+          "explanation": {
+            "summary": "Elevated collision probability \u2014 caution advised.",
+            "factors": [
+              "truck track 1: 4.7m"
+            ],
+            "confidence": 0.815
+          },
+          "collision_probability": 0.7,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 273.34378266077573,
+          "y1": 185.47279968903274,
+          "x2": 748.8830143641014,
+          "y2": 612.1660741210461,
+          "confidence": 0.4018906056880951,
+          "class_name": "truck",
+          "track_id": 1,
+          "distance_m": 4.67,
+          "velocity_ms": 8.96,
+          "closing_speed_ms": -8.95,
+          "ttc_sec": null,
+          "collision_probability": 0.7,
+          "in_ego_path": true,
+          "bbox_w": 475.5392317033257,
+          "bbox_h": 426.69327443201337
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 4.67,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 1
+    },
+    {
+      "frame_id": 25,
+      "video_frame": 75,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 26,
+      "video_frame": 78,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 27,
+      "video_frame": 81,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 28,
+      "video_frame": 84,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 29,
+      "video_frame": 87,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 30,
+      "video_frame": 90,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 31,
+      "video_frame": 93,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 32,
+      "video_frame": 96,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 33,
+      "video_frame": 99,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 94.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 84.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 34,
+      "video_frame": 102,
+      "detection_count": 1,
+      "collision_probability": 0.7,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 4.6m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 4.6m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "warning",
+          "action": "slow_down",
+          "message": "Reduce speed \u2014 object closing rapidly",
+          "explanation": {
+            "summary": "Elevated collision probability \u2014 caution advised.",
+            "factors": [
+              "truck track 1: 4.6m"
+            ],
+            "confidence": 0.815
+          },
+          "collision_probability": 0.7,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 271.1163315369604,
+          "y1": 157.7300346210579,
+          "x2": 745.821188323247,
+          "y2": 583.6746385718899,
+          "confidence": 0.5,
+          "class_name": "truck",
+          "track_id": 1,
+          "distance_m": 4.59,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.7,
+          "in_ego_path": true,
+          "bbox_w": 474.70485678628665,
+          "bbox_h": 425.94460395083195
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 4.59,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 93.6,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 76.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 1
+    },
+    {
+      "frame_id": 35,
+      "video_frame": 105,
+      "detection_count": 2,
+      "collision_probability": 0.05,
+      "time_to_collision_sec": 14.6,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 4.5m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 4.5m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": 14.6
+        }
+      ],
+      "detections": [
+        {
+          "x1": 268.88888041322735,
+          "y1": 129.98726955308308,
+          "x2": 742.7593622823103,
+          "y2": 555.1832030227338,
+          "confidence": 0.5,
+          "class_name": "truck",
+          "track_id": 1,
+          "distance_m": 4.52,
+          "velocity_ms": 0.38,
+          "closing_speed_ms": 0.31,
+          "ttc_sec": 14.6,
+          "collision_probability": 0.05,
+          "in_ego_path": true,
+          "bbox_w": 473.870481869083,
+          "bbox_h": 425.1959334696507
+        },
+        {
+          "x1": 350.94774301394034,
+          "y1": 0.8612042767379435,
+          "x2": 615.883845359404,
+          "y2": 44.314820673611386,
+          "confidence": 0.59478759765625,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 21.11,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.09,
+          "in_ego_path": false,
+          "bbox_w": 264.9361023454636,
+          "bbox_h": 43.45361639687344
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 4.52,
+        "radar_rear_m": 21.11,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 2
+    },
+    {
+      "frame_id": 36,
+      "video_frame": 108,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 37,
+      "video_frame": 111,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 38,
+      "video_frame": 114,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 39,
+      "video_frame": 117,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 40,
+      "video_frame": 120,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 41,
+      "video_frame": 123,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 42,
+      "video_frame": 126,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 43,
+      "video_frame": 129,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 44,
+      "video_frame": 132,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 45,
+      "video_frame": 135,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 46,
+      "video_frame": 138,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 47,
+      "video_frame": 141,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 48,
+      "video_frame": 144,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 49,
+      "video_frame": 147,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 50,
+      "video_frame": 150,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 51,
+      "video_frame": 153,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 52,
+      "video_frame": 156,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 53,
+      "video_frame": 159,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 54,
+      "video_frame": 162,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 55,
+      "video_frame": 165,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 56,
+      "video_frame": 168,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 57,
+      "video_frame": 171,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 58,
+      "video_frame": 174,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 59,
+      "video_frame": 177,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 60,
+      "video_frame": 180,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 61,
+      "video_frame": 183,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 62,
+      "video_frame": 186,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 63,
+      "video_frame": 189,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 64,
+      "video_frame": 192,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 65,
+      "video_frame": 195,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 92.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 68.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 66,
+      "video_frame": 198,
+      "detection_count": 2,
+      "collision_probability": 0.7,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 4.5m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 4.5m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "warning",
+          "action": "slow_down",
+          "message": "Reduce speed \u2014 object closing rapidly",
+          "explanation": {
+            "summary": "Elevated collision probability \u2014 caution advised.",
+            "factors": [
+              "truck track 1: 4.5m"
+            ],
+            "confidence": 0.815
+          },
+          "collision_probability": 0.7,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 266.6614292895765,
+          "y1": 102.24450448510825,
+          "x2": 739.6975362412913,
+          "y2": 526.6917674735776,
+          "confidence": 0.5,
+          "class_name": "truck",
+          "track_id": 1,
+          "distance_m": 4.45,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.7,
+          "in_ego_path": true,
+          "bbox_w": 473.0361069517148,
+          "bbox_h": 424.44726298846933
+        },
+        {
+          "x1": 367.5051878000278,
+          "y1": 0.9960297810338261,
+          "x2": 599.5943121115481,
+          "y2": 39.06223376847061,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 24.05,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.09,
+          "in_ego_path": false,
+          "bbox_w": 232.08912431152032,
+          "bbox_h": 38.066203987436786
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 4.45,
+        "radar_rear_m": 24.05,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 91.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 60.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 2
+    },
+    {
+      "frame_id": 67,
+      "video_frame": 201,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 91.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 60.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 68,
+      "video_frame": 204,
+      "detection_count": 2,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.8m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.8m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.8m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 321.2940874554806,
+          "y1": 170.9997860750938,
+          "x2": 797.9786782881342,
+          "y2": 597.8563766325575,
+          "confidence": 0.4115220308303833,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.77,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 476.6845908326536,
+          "bbox_h": 426.85659055746373
+        },
+        {
+          "x1": 384.06263278869994,
+          "y1": 1.1308552853297087,
+          "x2": 583.3047786611074,
+          "y2": 33.80964686332984,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 27.96,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.023,
+          "in_ego_path": false,
+          "bbox_w": 199.2421458724075,
+          "bbox_h": 32.67879157800013
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.77,
+        "radar_rear_m": 27.96,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 90.0,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 52.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 2
+    },
+    {
+      "frame_id": 69,
+      "video_frame": 207,
+      "detection_count": 2,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.8m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.8m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.8m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 329.27283598274806,
+          "y1": 160.4322482887687,
+          "x2": 805.7490548194412,
+          "y2": 587.1022453826204,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.76,
+          "velocity_ms": 0.69,
+          "closing_speed_ms": 0.08,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 476.47621883669314,
+          "bbox_h": 426.66999709385163
+        },
+        {
+          "x1": 400.6200779799568,
+          "y1": 1.2656807896255895,
+          "x2": 567.015245008082,
+          "y2": 28.557059958189065,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 33.41,
+          "velocity_ms": 23.87,
+          "closing_speed_ms": -23.87,
+          "ttc_sec": null,
+          "collision_probability": 0.023,
+          "in_ego_path": false,
+          "bbox_w": 166.39516702812523,
+          "bbox_h": 27.291379168563473
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.76,
+        "radar_rear_m": 33.41,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 88.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 44.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 2
+    },
+    {
+      "frame_id": 70,
+      "video_frame": 210,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 88.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 44.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 71,
+      "video_frame": 213,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 88.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 44.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 72,
+      "video_frame": 216,
+      "detection_count": 2,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.7m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.7m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.7m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 337.25158451131574,
+          "y1": 149.86471050244361,
+          "x2": 813.519431349448,
+          "y2": 576.3481141326833,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.74,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 476.2678468381323,
+          "bbox_h": 426.48340363023976
+        },
+        {
+          "x1": 417.1775233737984,
+          "y1": 1.4005062939214703,
+          "x2": 550.725711152472,
+          "y2": 23.304473053048294,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 41.54,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.023,
+          "in_ego_path": false,
+          "bbox_w": 133.54818777867354,
+          "bbox_h": 21.903966759126824
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.74,
+        "radar_rear_m": 41.54,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 87.6,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 36.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 2
+    },
+    {
+      "frame_id": 73,
+      "video_frame": 219,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 87.6,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 36.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 74,
+      "video_frame": 222,
+      "detection_count": 3,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.7m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.7m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.7m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 345.2303330411836,
+          "y1": 139.29717271611852,
+          "x2": 821.2898078781546,
+          "y2": 565.5939828827462,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.72,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 476.05947483697105,
+          "bbox_h": 426.29681016662767
+        },
+        {
+          "x1": 433.7349689702247,
+          "y1": 1.535331798217351,
+          "x2": 534.4361770942771,
+          "y2": 18.051886147907524,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 54.98,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.023,
+          "in_ego_path": false,
+          "bbox_w": 100.70120812405241,
+          "bbox_h": 16.516554349690175
+        },
+        {
+          "x1": 358.6026891085176,
+          "y1": 6.063348140191906,
+          "x2": 705.473711642102,
+          "y2": 221.45692190286474,
+          "confidence": 0.48159506916999817,
+          "class_name": "bus",
+          "track_id": 5,
+          "distance_m": 9.14,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.203,
+          "in_ego_path": false,
+          "bbox_w": 346.8710225335844,
+          "bbox_h": 215.39357376267282
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.72,
+        "radar_rear_m": 9.14,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 86.4,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 28.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 3
+    },
+    {
+      "frame_id": 75,
+      "video_frame": 225,
+      "detection_count": 3,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.7m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.7m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.7m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 353.2090815723517,
+          "y1": 128.72963492979343,
+          "x2": 829.0601844055611,
+          "y2": 554.8398516328092,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.7,
+          "velocity_ms": 0.7,
+          "closing_speed_ms": 0.08,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 475.85110283320944,
+          "bbox_h": 426.1102167030158
+        },
+        {
+          "x1": 450.2924147692358,
+          "y1": 1.670157302513231,
+          "x2": 518.1466428334976,
+          "y2": 12.79929924276675,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 81.42,
+          "velocity_ms": 117.26,
+          "closing_speed_ms": -117.26,
+          "ttc_sec": null,
+          "collision_probability": 0.023,
+          "in_ego_path": false,
+          "bbox_w": 67.8542280642618,
+          "bbox_h": 11.129141940253518
+        },
+        {
+          "x1": 371.052894224252,
+          "y1": -2.908809903564986,
+          "x2": 689.051858319833,
+          "y2": 194.55632447773428,
+          "confidence": 0.5,
+          "class_name": "bus",
+          "track_id": 5,
+          "distance_m": 9.84,
+          "velocity_ms": 3.09,
+          "closing_speed_ms": -3.09,
+          "ttc_sec": null,
+          "collision_probability": 0.203,
+          "in_ego_path": false,
+          "bbox_w": 317.99896409558096,
+          "bbox_h": 197.46513438129926
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.7,
+        "radar_rear_m": 9.84,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 85.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 20.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 3
+    },
+    {
+      "frame_id": 76,
+      "video_frame": 228,
+      "detection_count": 3,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.7m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.7m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.7m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 361.18783010482,
+          "y1": 118.16209714346834,
+          "x2": 836.8305609316672,
+          "y2": 544.0857203828721,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.69,
+          "velocity_ms": 0.7,
+          "closing_speed_ms": 0.08,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 475.6427308268471,
+          "bbox_h": 425.9236232394037
+        },
+        {
+          "x1": 466.8498607708316,
+          "y1": 1.8049828068091114,
+          "x2": 501.8571083701333,
+          "y2": 7.546712337625976,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 113.04,
+          "velocity_ms": 139.88,
+          "closing_speed_ms": -139.88,
+          "ttc_sec": null,
+          "collision_probability": 0.023,
+          "in_ego_path": false,
+          "bbox_w": 35.00724759930171,
+          "bbox_h": 5.741729530816865
+        },
+        {
+          "x1": 383.5030994461263,
+          "y1": -11.880967947321864,
+          "x2": 672.630004891424,
+          "y2": 167.6557270526038,
+          "confidence": 0.5,
+          "class_name": "bus",
+          "track_id": 5,
+          "distance_m": 10.67,
+          "velocity_ms": 3.7,
+          "closing_speed_ms": -3.7,
+          "ttc_sec": null,
+          "collision_probability": 0.203,
+          "in_ego_path": false,
+          "bbox_w": 289.1269054452977,
+          "bbox_h": 179.53669499992566
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.69,
+        "radar_rear_m": 10.67,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 84.0,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 12.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 3
+    },
+    {
+      "frame_id": 77,
+      "video_frame": 231,
+      "detection_count": 4,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.7m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.7m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.7m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 369.1665786385885,
+          "y1": 107.59455935714325,
+          "x2": 844.600937456473,
+          "y2": 533.331589132935,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.67,
+          "velocity_ms": 0.39,
+          "closing_speed_ms": 0.04,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 475.4343588178846,
+          "bbox_h": 425.7370297757918
+        },
+        {
+          "x1": 483.4073069750121,
+          "y1": 1.9398083111049917,
+          "x2": 485.5675737041842,
+          "y2": 2.2941254324852025,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 112.8,
+          "velocity_ms": 0.58,
+          "closing_speed_ms": 0.58,
+          "ttc_sec": 195.32,
+          "collision_probability": 0.023,
+          "in_ego_path": false,
+          "bbox_w": 2.160266729172122,
+          "bbox_h": 0.35431712138021076
+        },
+        {
+          "x1": 395.9533047741406,
+          "y1": -20.85312599107874,
+          "x2": 656.2081513568751,
+          "y2": 140.7551296274733,
+          "confidence": 0.5,
+          "class_name": "bus",
+          "track_id": 5,
+          "distance_m": 11.69,
+          "velocity_ms": 2.51,
+          "closing_speed_ms": -2.5,
+          "ttc_sec": null,
+          "collision_probability": 0.203,
+          "in_ego_path": false,
+          "bbox_w": 260.2548465827345,
+          "bbox_h": 161.60825561855205
+        },
+        {
+          "x1": 350.5387302708257,
+          "y1": 0.7487509928259612,
+          "x2": 694.8435958897073,
+          "y2": 102.11271927013969,
+          "confidence": 0.6022497415542603,
+          "class_name": "bus",
+          "track_id": 7,
+          "distance_m": 18.52,
+          "velocity_ms": 0.0,
+          "closing_speed_ms": 0.0,
+          "ttc_sec": null,
+          "collision_probability": 0.09,
+          "in_ego_path": false,
+          "bbox_w": 344.30486561888165,
+          "bbox_h": 101.36396827731373
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.67,
+        "radar_rear_m": 11.69,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.8,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 4.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 4
+    },
+    {
+      "frame_id": 78,
+      "video_frame": 234,
+      "detection_count": 4,
+      "collision_probability": 0.9,
+      "time_to_collision_sec": null,
+      "alerts": [
+        {
+          "level": "critical",
+          "action": "brake",
+          "message": "Emergency braking \u2014 imminent collision risk",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "car track 1: 2.6m"
+            ],
+            "confidence": 0.905
+          },
+          "collision_probability": 0.9,
+          "time_to_collision_sec": null
+        },
+        {
+          "level": "critical",
+          "action": "collision_avoid",
+          "message": "Critical proximity: 2.6m",
+          "explanation": {
+            "summary": "Critical collision risk detected.",
+            "factors": [
+              "Front object at 2.6m"
+            ],
+            "confidence": 0.914
+          },
+          "collision_probability": 0.92,
+          "time_to_collision_sec": null
+        }
+      ],
+      "detections": [
+        {
+          "x1": 377.1453271736572,
+          "y1": 97.02702157081816,
+          "x2": 852.3713139799788,
+          "y2": 522.5774578829979,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 1,
+          "distance_m": 2.65,
+          "velocity_ms": 0.7,
+          "closing_speed_ms": 0.08,
+          "ttc_sec": null,
+          "collision_probability": 0.9,
+          "in_ego_path": true,
+          "bbox_w": 475.2259868063216,
+          "bbox_h": 425.5504363121797
+        },
+        {
+          "x1": 499.9647533817773,
+          "y1": 2.074633815400872,
+          "x2": 469.2780388356505,
+          "y2": -2.958461472655571,
+          "confidence": 0.5,
+          "class_name": "car",
+          "track_id": 2,
+          "distance_m": 112.57,
+          "velocity_ms": 1.04,
+          "closing_speed_ms": 1.04,
+          "ttc_sec": 108.13,
+          "collision_probability": 0.023,
+          "in_ego_path": false,
+          "bbox_w": -30.686714546126836,
+          "bbox_h": -5.033095288056443
+        },
+        {
+          "x1": 408.40351020829473,
+          "y1": -29.82528403483562,
+          "x2": 639.7862977161864,
+          "y2": 113.85453220234282,
+          "confidence": 0.5,
+          "class_name": "bus",
+          "track_id": 5,
+          "distance_m": 12.97,
+          "velocity_ms": 5.64,
+          "closing_speed_ms": -5.64,
+          "ttc_sec": null,
+          "collision_probability": 0.203,
+          "in_ego_path": false,
+          "bbox_w": 231.38278750789163,
+          "bbox_h": 143.67981623717844
+        },
+        {
+          "x1": 401.37710466552176,
+          "y1": 0.449225070268362,
+          "x2": 631.4174470109947,
+          "y2": 66.20484486578539,
+          "confidence": 0.6807572245597839,
+          "class_name": "car",
+          "track_id": 7,
+          "distance_m": 14.07,
+          "velocity_ms": 19.68,
+          "closing_speed_ms": 19.67,
+          "ttc_sec": 0.72,
+          "collision_probability": 0.203,
+          "in_ego_path": false,
+          "bbox_w": 230.04034234547294,
+          "bbox_h": 65.75561979551702
+        }
+      ],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 2.65,
+        "radar_rear_m": 12.97,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 4
+    },
+    {
+      "frame_id": 79,
+      "video_frame": 237,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 80,
+      "video_frame": 240,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 81,
+      "video_frame": 243,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 82,
+      "video_frame": 246,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 83,
+      "video_frame": 249,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 84,
+      "video_frame": 252,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 85,
+      "video_frame": 255,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 86,
+      "video_frame": 258,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 87,
+      "video_frame": 261,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 88,
+      "video_frame": 264,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 89,
+      "video_frame": 267,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 90,
+      "video_frame": 270,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 91,
+      "video_frame": 273,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 92,
+      "video_frame": 276,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 93,
+      "video_frame": 279,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 94,
+      "video_frame": 282,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 95,
+      "video_frame": 285,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 96,
+      "video_frame": 288,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 97,
+      "video_frame": 291,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 98,
+      "video_frame": 294,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 99,
+      "video_frame": 297,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    },
+    {
+      "frame_id": 100,
+      "video_frame": 300,
+      "detection_count": 0,
+      "collision_probability": 0.0,
+      "time_to_collision_sec": null,
+      "alerts": [],
+      "detections": [],
+      "sensors": {
+        "gps_lat": 37.7749,
+        "gps_lon": -122.4194,
+        "speed_kmh": 30.0,
+        "heading_deg": 0.0,
+        "imu_yaw": 0.0,
+        "imu_pitch": 0.0,
+        "radar_front_m": 100.0,
+        "radar_rear_m": 80.0,
+        "radar_left_m": 50.0,
+        "radar_right_m": 50.0
+      },
+      "driver_score": {
+        "overall": 82.2,
+        "safe_driving": 94.0,
+        "aggression": 93.0,
+        "sudden_braking": 0.0,
+        "lane_discipline": 100.0,
+        "speed_compliance": 100.0
+      },
+      "v2v_count": 0
+    }
+  ]
+}

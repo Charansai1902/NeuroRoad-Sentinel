@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.pt
+*.onnx
+weights/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.log
+
+# Data & snapshots
+datasets/raw/
+.snapshots/
+*.mp4
+*.avi
+
+# CARLA / SUMO
+simulation/carla/CarlaUE4/
+simulation/sumo/output/
+.venv/
+.venv/

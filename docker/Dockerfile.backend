@@ -1,0 +1,15 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+RUN apt-get update && apt-get install -y libgl1 libglib2.0-0 && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt /app/
+COPY backend/requirements.txt /app/backend/
+RUN pip install --no-cache-dir -r requirements.txt -r backend/requirements.txt
+
+COPY backend /app/backend
+COPY ai_models /app/ai_models
+
+WORKDIR /app/backend
+EXPOSE 8000
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
