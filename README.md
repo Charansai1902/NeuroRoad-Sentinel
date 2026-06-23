@@ -128,7 +128,7 @@ NeuroRoad-Sentinel/
 
 > I developed an AI-powered cooperative ADAS system that predicts future driving risks using sensor fusion, computer vision, and trajectory prediction. Unlike traditional ADAS that only detect present obstacles, my system performs predictive intelligence and autonomous decision assistance using multi-modal data.
 
-## Datasets (recommended)
+## Datasets (May built in future)
 
 - **Detection:** BDD100K, KITTI, COCO
 - **Lanes:** TuSimple
